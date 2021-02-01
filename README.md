@@ -17,4 +17,4 @@ This is a shopping cart. you can buy your item from here.
 [CLICK ME](https://shahinuralambhuiyan.github.io/shopping-cart-1/)
 
 ## Let's take a look!
-![alt text](images/shopping-cart -site.jpg)
+![alt text](images/shopping-cart-site.jpg)
