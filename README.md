@@ -9,8 +9,8 @@ This is a shopping cart. you can buy your item from here.
 +  HTML
 
 ## How this site works
-* first you have to add something and than click the "check out" button
-  - if your add nothing & click 'check out' button than you will be get an alert
+* first you have to add something and than click the "check out" button.
+  - if your add nothing & click 'check out' button than you will be get an alert.
   - if you order perfectly than you get a alert as comfirmation.
 
 ## Click below to enjoy...
